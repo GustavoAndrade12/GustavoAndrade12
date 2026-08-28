@@ -84,12 +84,3 @@ Me chamo Gustavo, sou estudante de curso técnico na Etec Irmã Agostina, faço 
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-andrade-magalhaes/])
 
 
-/*<!-- Portfolio -->
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
-*/
-
