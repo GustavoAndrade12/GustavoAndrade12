@@ -2,7 +2,7 @@
 
 *Desenvolvedor FullStack* *Desenvolvedor Web*
 
-Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio escolar com o curso técnico em administração. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Irmã Agostina. Sou apaixonado por tecnologia e compartilho meu conhecimento através do tik tok.
+Me chamo Gustavo, sou estudante de curso técnico na Etec Irmã Agostina, faço Desenvolvimento de sistemas e procuro me desenvolver no ramo da tecnologia.
 
 
 ---
