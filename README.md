@@ -80,8 +80,8 @@ Me chamo Brayan Fraioli, tenho 17 anos e sou natural de São Paulo. Concluí o e
       
       <!-- Links -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/](https://www.instagram.com/_guhzinx.x?igsi=YjZqaDE3Zzk4aDFp))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/](https://www.linkedin.com/in/gustavo-andrade-magalhaes/))
 
 
 <!-- Portfolio -->
